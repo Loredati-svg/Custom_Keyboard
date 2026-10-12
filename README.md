@@ -2,13 +2,12 @@
 
 A custom 9-key macropad with two rotary encoders and per-key RGB lighting, designed from scratch in **KiCad 10** around a bare **RP2040** microcontroller.
 
-
-<img width="688" height="786" alt="Screenshot 2026-10-12 232905" src="https://github.com/user-attachments/assets/ecb11acc-f282-4864-b464-dba538917e3a" />
-
-<img width="646" height="795" alt="Screenshot 2026-10-12 232913" src="https://github.com/user-attachments/assets/d3d79ca4-ac9d-4038-b3dc-ebd776abf5a5" />
+<p align="center">
+  <img width="350" alt="Top view" src="https://github.com/user-attachments/assets/ecb11acc-f282-4864-b464-dba538917e3a" />
+  <img width="350" alt="Bottom view" src="https://github.com/user-attachments/assets/d3d79ca4-ac9d-4038-b3dc-ebd776abf5a5" />
+</p>
 
 ---
-
 ## Features
 
 - **9 mechanical keys** in a 3×3 grid (Cherry MX compatible, PCB-mount, standard 19.05 mm pitch)
