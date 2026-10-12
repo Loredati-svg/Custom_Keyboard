@@ -7,6 +7,16 @@ A custom 9-key macropad with two rotary encoders and per-key RGB lighting, desig
   <img width="350" alt="Bottom view" src="https://github.com/user-attachments/assets/d3d79ca4-ac9d-4038-b3dc-ebd776abf5a5" />
 </p>
 
+<img width="350" alt="Bottom layout" src="https://github.com/user-attachments/assets/6ef2a868-96b0-48b3-ba7e-4b8e4044740a" />
+
+<img width="350" alt="Top layout" src="https://github.com/user-attachments/assets/27cf5249-b942-4c55-91e0-c8a8d699fcf1" />
+
+<img width="350" alt="Power plane" src="https://github.com/user-attachments/assets/abc91846-feee-4452-97ef-5678b328156d" />
+
+<img width="350" alt="GND plane" src="https://github.com/user-attachments/assets/1dbdf4f1-f3c4-40fe-93fc-21222cafa8e2" />
+
+
+
 ---
 ## Features
 
