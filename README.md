@@ -2,9 +2,10 @@
 
 A custom 9-key macropad with two rotary encoders and per-key RGB lighting, designed from scratch in **KiCad 10** around a bare **RP2040** microcontroller.
 
-<!-- Add renders / photos here -->
-<!-- ![Top view](3D/top.png) -->
-<!-- ![Bottom view](3D/bottom.png) -->
+
+<img width="688" height="786" alt="Screenshot 2026-10-12 232905" src="https://github.com/user-attachments/assets/ecb11acc-f282-4864-b464-dba538917e3a" />
+
+<img width="646" height="795" alt="Screenshot 2026-10-12 232913" src="https://github.com/user-attachments/assets/d3d79ca4-ac9d-4038-b3dc-ebd776abf5a5" />
 
 ---
 
