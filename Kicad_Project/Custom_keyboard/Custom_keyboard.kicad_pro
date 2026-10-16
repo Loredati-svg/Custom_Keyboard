@@ -78,19 +78,19 @@
       ],
       "drc_exclusions": [
         [
-          "hole_clearance|138550000|64775000|4fdc49d9-507a-4775-976b-f2fc09243bac|468d5bfa-8a2d-43a7-bd54-29480e875bb4",
+          "hole_clearance|138300000|68405000|4fdc49d9-507a-4775-976b-f2fc09243bac|468d5bfa-8a2d-43a7-bd54-29480e875bb4",
           ""
         ],
         [
-          "hole_clearance|138550000|64775000|819ec814-bebb-4e95-94e5-557c831d6539|468d5bfa-8a2d-43a7-bd54-29480e875bb4",
+          "hole_clearance|138300000|68405000|819ec814-bebb-4e95-94e5-557c831d6539|468d5bfa-8a2d-43a7-bd54-29480e875bb4",
           ""
         ],
         [
-          "hole_clearance|144650000|64775000|bfa2416c-dbfc-453c-b3b7-70e19013030d|692945e9-c251-4d86-9456-10d90b81bcec",
+          "hole_clearance|144400000|68405000|bfa2416c-dbfc-453c-b3b7-70e19013030d|692945e9-c251-4d86-9456-10d90b81bcec",
           ""
         ],
         [
-          "hole_clearance|144650000|64775000|c425a50f-a92d-4a47-a9c1-21de05629f32|692945e9-c251-4d86-9456-10d90b81bcec",
+          "hole_clearance|144400000|68405000|c425a50f-a92d-4a47-a9c1-21de05629f32|692945e9-c251-4d86-9456-10d90b81bcec",
           ""
         ]
       ],
@@ -590,7 +590,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Fabrication files/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -640,31 +640,31 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Simulation",
           "name": "${EXCLUDE_FROM_SIM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Position Files",
           "name": "${EXCLUDE_FROM_POS_FILES}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -676,15 +676,111 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field5",
+          "name": "Field5",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Descrizione",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_DVDD",
+          "name": "KLC_S4.2_DVDD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.2_VREG_VOUT",
+          "name": "KLC_S4.2_VREG_VOUT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S3.3",
+          "name": "KLC_S3.3",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KLC_S4.1",
+          "name": "KLC_S4.1",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Riferimento"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,
