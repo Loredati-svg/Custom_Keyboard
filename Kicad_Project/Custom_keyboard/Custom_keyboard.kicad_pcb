@@ -431,7 +431,7 @@
 			(uuid "d2588d8d-2aa2-4eb6-8f53-ddbc7d42189e")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -964,7 +964,7 @@
 			(uuid "8b2f1e20-806b-4fb7-ac13-50a0450650d0")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -1257,7 +1257,7 @@
 			(uuid "52a6ab16-8a7c-4c68-a0d8-10ae9b507fff")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5.5)
 			)
@@ -1550,7 +1550,7 @@
 			(uuid "9c34b020-9e08-4cf5-a8e8-6b076ec13967")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -1963,7 +1963,7 @@
 			(uuid "d48a028e-5fca-4dca-9f26-ab1012623547")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -2256,7 +2256,7 @@
 			(uuid "330531ad-9813-4aa7-b0ab-79319658e3db")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -2669,7 +2669,7 @@
 			(uuid "e2f2494e-e602-4ca4-9360-59bff1e02966")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -2681,7 +2681,7 @@
 			)
 		)
 	)
-	(footprint "PEC12R-4120F-S0012:PEC12R4120FS0012"
+	(footprint "eSwitch:PEC12R4120FS0012"
 		(layer "F.Cu")
 		(uuid "e4154b9c-bb57-4867-8fe8-35dc43338cc6")
 		(at 118.6 86.25)
@@ -3136,7 +3136,7 @@
 			(uuid "e26bce5e-6c92-41be-b252-c657732e75ab")
 		)
 		(embedded_fonts no)
-		(model "PEC12R-4120F-S0012.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/PEC12R-4120F-S0012.stp"
 			(offset
 				(xyz 2.499999962 7.479999907 -0.1399999985)
 			)
@@ -3148,7 +3148,7 @@
 			)
 		)
 	)
-	(footprint "PEC12R-4120F-S0012:PEC12R4120FS0012"
+	(footprint "eSwitch:PEC12R4120FS0012"
 		(layer "F.Cu")
 		(uuid "e53b7d7e-67b3-4740-89b0-2769f2af5c26")
 		(at 158.4 86.25)
@@ -3603,7 +3603,7 @@
 			(uuid "62a71bd0-117f-483e-86bc-186480cbfc3c")
 		)
 		(embedded_fonts no)
-		(model "PEC12R-4120F-S0012.stp"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/PEC12R-4120F-S0012.stp"
 			(offset
 				(xyz 2.499999962 7.479999907 -0.1399999985)
 			)
@@ -3896,7 +3896,7 @@
 			(uuid "a0df7772-246d-4a6d-8ffc-f9df5233a528")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)
@@ -4189,7 +4189,7 @@
 			(uuid "a29dd811-357a-4f33-aabe-d7204132229c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/lollo/Desktop/Hardware_Projects/Custom-Keyboard/3D/Kailh Polia.step"
+		(model "${KIPRJMOD}/../KiCad_Libs/eSwitch/eSwitch.3dshapes/Kailh_Polia.step"
 			(offset
 				(xyz -2.5 -5 5)
 			)

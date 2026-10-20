@@ -3778,7 +3778,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "PEC12R-4120F-S0012:PEC12R-4120F-S0012"
+		(symbol "eSwitch:PEC12R-4120F-S0012"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3808,7 +3808,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "PEC12R4120FS0012"
+			(property "Footprint" "eSwitch:PEC12R4120FS0012"
 				(at 26.67 -87.3 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -18872,7 +18872,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PEC12R-4120F-S0012:PEC12R-4120F-S0012")
+		(lib_id "eSwitch:PEC12R-4120F-S0012")
 		(at 361.95 138.43 0)
 		(unit 1)
 		(body_style 1)
@@ -18902,7 +18902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC12R4120FS0012"
+		(property "Footprint" "eSwitch:PEC12R4120FS0012"
 			(at 388.62 225.73 0)
 			(hide yes)
 			(show_name no)
@@ -25438,7 +25438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "PEC12R-4120F-S0012:PEC12R-4120F-S0012")
+		(lib_id "eSwitch:PEC12R-4120F-S0012")
 		(at 367.03 201.93 0)
 		(unit 1)
 		(body_style 1)
@@ -25468,7 +25468,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PEC12R4120FS0012"
+		(property "Footprint" "eSwitch:PEC12R4120FS0012"
 			(at 393.7 289.23 0)
 			(hide yes)
 			(show_name no)
