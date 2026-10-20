@@ -1,4 +1,4 @@
-# Custom Keyboard – RP2040 Macropad
+# RP2040 Macropad – 9 Keys & 2 Rotary Encoders
 
 A custom 9-key macropad with two rotary encoders and per-key RGB lighting, designed from scratch in **KiCad 10** around a bare **RP2040** microcontroller.
 
